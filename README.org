@@ -10,6 +10,11 @@ differences:
 - The fstab will be replaced with the current drive letter
 - If not available, MSYS will install from MinGW.
 
+The installer is located at: 
+
+http://code.google.com/p/msys-portable/downloads/list
+
+
 
 
 
