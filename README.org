@@ -1,0 +1,15 @@
+#+TITLE: MSYS Portable
+#+AUTHOR: Matthew L. Fidler
+* Introduction
+Msys is a minimal unix system.  This uses [[http://portableapps.com/node/18601][MinGW Portable]], and is
+initally based on MSYS Portable found [[http://portableapps.com/node/30163][here]].  It has the following
+differences:
+
+- MSYS is assumed to be in the MinGW directory, that way mingw-get
+  will work.
+- The fstab will be replaced with the current drive letter
+- If not available, MSYS will install from MinGW.
+
+
+
+
